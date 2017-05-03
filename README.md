@@ -9,4 +9,6 @@ HW3 includes implementations of (Gaussian) Kernel SVM, (Gaussian) Kernel Ridge R
 
 HW4 includes implementations Kernel SGD and k-means Clustering over the classic MNIST dataset.  Also included are a variety of derivations and proofs on topics including PCA, boosting, and the EM algorithm.
 
-HW5 was the class Kaggle competition (detailed here https://inclass.kaggle.com/c/cse512).  Working with a real world dataset of half a million samples, our goal was to determine if two individuals using the eHarmony dating platform would be compatible or not.  My attempt used polynomial feature mappings with regularized least squares regression along with implementations for SGD and logistic regression with mini-batches and over/under-sampling.
+HW5 was the class Kaggle competition (detailed here https://inclass.kaggle.com/c/cse512).  
+
+Working with a real world dataset of half a million samples, our goal was to determine if two individuals using the eHarmony dating platform would be compatible or not.  My attempt used polynomial feature mappings with regularized least squares regression along with implementations for SGD and logistic regression with mini-batches and over/under-sampling.  My final score was ~67% AUC which surpassed the threshold which was the professors score.
